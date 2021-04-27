@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/artursem/list/issues"
   },
-  "homepage": "https://github.com/artursem/list#readme"
+  "homepage": "https://github.com/artursem/list#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
 }
